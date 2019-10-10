@@ -32,3 +32,14 @@ Node、ApacheCordova、Electron
 - 模块，把代码划分为较小的可以自包含的片段，使项目易于管理。
 
 ### 1.1.1 JavaScript是如何发展的
+
+### 1.1.2 如今的转换编译器已经能让我们体验未来的JavaScript
+
+当我们想利用JavaScript的最新特性时，也往往会被残酷的现实绑架：用户依然在使用老旧的浏览器。
+
+解决这个问题的方式之一时使用转换编译器transpilers（即“转换器+编译器”，“transformation + compiling”），这类工具能够把最前沿的JavaScript代码转换为等价的（如果不能实现，则使用相似的）能在当前浏览器中运行的代码。
+
+最流行的转换编译器时Traceur和Babel。
+
+## 1.2 理解浏览器
+
