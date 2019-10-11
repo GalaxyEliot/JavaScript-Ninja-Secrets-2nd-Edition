@@ -33,6 +33,8 @@ Node、ApacheCordova、Electron
 
 ### 1.1.1 JavaScript是如何发展的
 
+<https://kangax.github.io>
+
 ### 1.1.2 如今的转换编译器已经能让我们体验未来的JavaScript
 
 当我们想利用JavaScript的最新特性时，也往往会被残酷的现实绑架：用户依然在使用老旧的浏览器。
@@ -41,5 +43,19 @@ Node、ApacheCordova、Electron
 
 最流行的转换编译器时Traceur和Babel。
 
+<https://github.com/googLe/traceur-compiler/wiki/Getting-stanted>
+<https://github.com/google/traceur-compiler>
+<http://babeljs.io/docs/setup>
+
+[Babel中文](https://www.babeljs.cn/)
+
 ## 1.2 理解浏览器
+
+JavaScript最初的运行环境是浏览器环境，而其他运行环境也是借鉴与浏览器环境。我们重点专注浏览器环境。浏览器提供了多种概念和API让我们探索，如图1.1
+
+![1.1](./1.1.png)
+
+**我们将集中讨论如下概念**
+
+
 
